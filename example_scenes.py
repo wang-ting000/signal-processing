@@ -1,5 +1,5 @@
 ##信号的时域、频域和相位观察(signal showed in time domain,frequency domain and phase domain
-
+##借用了3b1b 的库manim
 #!/usr/bin/env python
 
 from manimlib.imports import *
