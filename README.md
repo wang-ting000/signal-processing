@@ -13,3 +13,20 @@
 3. DFS
 4. DFT
 5. DTFT
+
+
+# PSD
+
+使用条件：平稳信号，自相关函数和其功率谱密度是一对傅里叶变换对  
+
+而非平稳信号由于自相关函数不仅仅和时间差有关系，无法根据功率谱密度表示
+
+物理意义：
+频率和时间有关系，因此不含时间维度的PSD无法体现信号特征
+
+改进：用时频图来展示信号
+eg:
+
+![](https://i.loli.net/2021/04/03/JSBCkg15ncOFmAy.png)
+![](https://i.loli.net/2021/04/03/Zs8etgwnAUi9pLC.png)
+![](https://i.loli.net/2021/04/03/AWJzgT6K8ZGylH3.png)
